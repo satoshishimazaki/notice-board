@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<a href="#"><div id="notice_board">test</div></a>
+<a href="http://localhost:8001/forums/forum/何でも掲示板"><div id="notice_board">test</div></a>
 <div id="content">
 
 	<?php if ( is_archive() ) { ?>
